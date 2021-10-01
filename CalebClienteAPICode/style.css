@@ -1,0 +1,20 @@
+body {
+    background-color: lightblue;
+}
+
+table {
+    width: 80%;
+}
+
+div {
+    width: 80%;
+}
+
+td form {
+    margin: 0.25em;
+}
+
+td form button.button:hover {
+    background: none;
+    color: steelblue;
+}
